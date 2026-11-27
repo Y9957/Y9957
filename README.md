@@ -14,7 +14,7 @@ AI가 내놓은 결과를 그대로 쓰기보다, **데이터로 검증하고 �
 
 | 프로젝트 | 내용 | 기술 |
 |---|---|---|
-| [**frima-risk-ml**](https://github.com/Y9957/frima-risk-ml) | 가맹점 위험 진단 AI (팀 프로젝트). 더미데이터 10만 건 생성, LightGBM 3단계 위험 분류, SHAP 판정 근거 카드, Isolation Forest 이상탐지 담당. 점포 단위 분할로 평가 누수를 걷어낸 재평가 포함 · **Big Project 우수상** | LightGBM · SHAP · scikit-learn · GitHub Actions |
+| [**frima-risk-ml**](https://github.com/Y9957/frima-risk-ml) | 가맹점 위험 진단 AI (팀 프로젝트). 더미데이터 10만 건 생성, LightGBM 3단계 위험 분류, SHAP 판정 근거 카드, Isolation Forest 이상탐지, 날씨·공휴일 외부 요인 코멘트 담당. 점포 단위 분할로 평가 누수를 걷어낸 재평가 포함 · **Big Project 우수상** | LightGBM · SHAP · scikit-learn · GitHub Actions |
 | [**ai-interview-agent**](https://github.com/Y9957/ai-interview-agent) | 이력서 분석 → 질문 → 답변 평가 → Reflection → 심화 질문 → 리포트까지 상태 기반으로 제어하는 AI 면접관 Agent (팀장) | LangGraph · LangChain · OpenAI |
 | [**multimodal-video-generator**](https://github.com/Y9957/multimodal-video-generator) | PPT를 스크립트·음성·영상으로 자동 변환하는 멀티모달 Agent. TTS·영상 노드와 State 설계, 제작 시간 80% 이상 단축 | LangGraph · TTS · FFmpeg |
 | [**demo** (BookMuseum)](https://github.com/Y9957/demo) | JWT 쿠키 인증 기반 도서 창작 플랫폼 백엔드 REST API, 공통 예외 처리 | Spring Boot · Spring Security · JPA |
