@@ -26,6 +26,6 @@ AI가 내놓은 결과를 그대로 쓰기보다, **데이터로 검증하고 �
 
 #### 🛠 기술 스택
 
-**AI / LLM** &nbsp; Python · LangGraph · LangChain · OpenAI API
-**ML / Data** &nbsp; LightGBM · scikit-learn · SHAP · pandas · PostgreSQL
-**Backend / Cloud** &nbsp; Spring Boot · JPA · REST API · AWS (EC2 · RDS) · Docker · GitHub Actions
+- **AI / LLM** — Python · LangGraph · LangChain · OpenAI API
+- **ML / Data** — LightGBM · scikit-learn · SHAP · pandas · PostgreSQL
+- **Backend / Cloud** — Spring Boot · JPA · REST API · AWS (EC2 · RDS) · Docker · GitHub Actions
